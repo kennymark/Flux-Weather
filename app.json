@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Flux Weather",
+    "description":
+      "Flux weather is a simple but beautiful weather app that gives you precise weather data using the DarkSky API",
+    "slug": "flux-weather",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
